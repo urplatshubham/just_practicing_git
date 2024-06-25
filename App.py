@@ -13,3 +13,5 @@ print ("Adding the sub feature in the feature file")
 print ("Adding changes to the main file again")
 
 print("I am trying to rebase")
+
+print("Final changes to sub-feature1")
